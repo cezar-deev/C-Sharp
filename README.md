@@ -1,2 +1,2 @@
 # C-Sharp
- Repositorio para conteudos da Lingugem C#
+ Repositorio para conteudos da Linguagem C#
