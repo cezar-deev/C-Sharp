@@ -1,0 +1,14 @@
+C:\Users\eliane\Google Drive\Cezar\Curso de Tecnologia e Internet\06-C#\variavel\Curso de Csharpe\bin\Debug\netcoreapp3.1\Curso de Csharpe.exe
+C:\Users\eliane\Google Drive\Cezar\Curso de Tecnologia e Internet\06-C#\variavel\Curso de Csharpe\bin\Debug\netcoreapp3.1\Curso de Csharpe.deps.json
+C:\Users\eliane\Google Drive\Cezar\Curso de Tecnologia e Internet\06-C#\variavel\Curso de Csharpe\bin\Debug\netcoreapp3.1\Curso de Csharpe.runtimeconfig.json
+C:\Users\eliane\Google Drive\Cezar\Curso de Tecnologia e Internet\06-C#\variavel\Curso de Csharpe\bin\Debug\netcoreapp3.1\Curso de Csharpe.runtimeconfig.dev.json
+C:\Users\eliane\Google Drive\Cezar\Curso de Tecnologia e Internet\06-C#\variavel\Curso de Csharpe\bin\Debug\netcoreapp3.1\Curso de Csharpe.dll
+C:\Users\eliane\Google Drive\Cezar\Curso de Tecnologia e Internet\06-C#\variavel\Curso de Csharpe\bin\Debug\netcoreapp3.1\Curso de Csharpe.pdb
+C:\Users\eliane\Google Drive\Cezar\Curso de Tecnologia e Internet\06-C#\variavel\Curso de Csharpe\obj\Debug\netcoreapp3.1\Curso de Csharpe.csproj.AssemblyReference.cache
+C:\Users\eliane\Google Drive\Cezar\Curso de Tecnologia e Internet\06-C#\variavel\Curso de Csharpe\obj\Debug\netcoreapp3.1\Curso de Csharpe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliane\Google Drive\Cezar\Curso de Tecnologia e Internet\06-C#\variavel\Curso de Csharpe\obj\Debug\netcoreapp3.1\Curso de Csharpe.AssemblyInfoInputs.cache
+C:\Users\eliane\Google Drive\Cezar\Curso de Tecnologia e Internet\06-C#\variavel\Curso de Csharpe\obj\Debug\netcoreapp3.1\Curso de Csharpe.AssemblyInfo.cs
+C:\Users\eliane\Google Drive\Cezar\Curso de Tecnologia e Internet\06-C#\variavel\Curso de Csharpe\obj\Debug\netcoreapp3.1\Curso de Csharpe.csproj.CoreCompileInputs.cache
+C:\Users\eliane\Google Drive\Cezar\Curso de Tecnologia e Internet\06-C#\variavel\Curso de Csharpe\obj\Debug\netcoreapp3.1\Curso de Csharpe.dll
+C:\Users\eliane\Google Drive\Cezar\Curso de Tecnologia e Internet\06-C#\variavel\Curso de Csharpe\obj\Debug\netcoreapp3.1\Curso de Csharpe.pdb
+C:\Users\eliane\Google Drive\Cezar\Curso de Tecnologia e Internet\06-C#\variavel\Curso de Csharpe\obj\Debug\netcoreapp3.1\Curso de Csharpe.genruntimeconfig.cache

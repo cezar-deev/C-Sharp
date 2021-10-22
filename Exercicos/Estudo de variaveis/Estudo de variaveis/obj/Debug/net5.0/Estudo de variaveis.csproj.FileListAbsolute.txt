@@ -1,0 +1,16 @@
+C:\curso\Estudo de variaveis\Estudo de variaveis\bin\Debug\net5.0\Estudo de variaveis.exe
+C:\curso\Estudo de variaveis\Estudo de variaveis\bin\Debug\net5.0\Estudo de variaveis.deps.json
+C:\curso\Estudo de variaveis\Estudo de variaveis\bin\Debug\net5.0\Estudo de variaveis.runtimeconfig.json
+C:\curso\Estudo de variaveis\Estudo de variaveis\bin\Debug\net5.0\Estudo de variaveis.runtimeconfig.dev.json
+C:\curso\Estudo de variaveis\Estudo de variaveis\bin\Debug\net5.0\Estudo de variaveis.dll
+C:\curso\Estudo de variaveis\Estudo de variaveis\bin\Debug\net5.0\ref\Estudo de variaveis.dll
+C:\curso\Estudo de variaveis\Estudo de variaveis\bin\Debug\net5.0\Estudo de variaveis.pdb
+C:\curso\Estudo de variaveis\Estudo de variaveis\obj\Debug\net5.0\Estudo de variaveis.csproj.AssemblyReference.cache
+C:\curso\Estudo de variaveis\Estudo de variaveis\obj\Debug\net5.0\Estudo de variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\Estudo de variaveis\Estudo de variaveis\obj\Debug\net5.0\Estudo de variaveis.AssemblyInfoInputs.cache
+C:\curso\Estudo de variaveis\Estudo de variaveis\obj\Debug\net5.0\Estudo de variaveis.AssemblyInfo.cs
+C:\curso\Estudo de variaveis\Estudo de variaveis\obj\Debug\net5.0\Estudo de variaveis.csproj.CoreCompileInputs.cache
+C:\curso\Estudo de variaveis\Estudo de variaveis\obj\Debug\net5.0\Estudo de variaveis.dll
+C:\curso\Estudo de variaveis\Estudo de variaveis\obj\Debug\net5.0\ref\Estudo de variaveis.dll
+C:\curso\Estudo de variaveis\Estudo de variaveis\obj\Debug\net5.0\Estudo de variaveis.pdb
+C:\curso\Estudo de variaveis\Estudo de variaveis\obj\Debug\net5.0\Estudo de variaveis.genruntimeconfig.cache

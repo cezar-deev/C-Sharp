@@ -1,0 +1,7 @@
+C:\curso\InverterNome\InverterNome\obj\Debug\InverterNome.csproj.AssemblyReference.cache
+C:\curso\InverterNome\InverterNome\obj\Debug\InverterNome.csproj.CoreCompileInputs.cache
+C:\curso\InverterNome\InverterNome\bin\Debug\InverterNome.exe.config
+C:\curso\InverterNome\InverterNome\bin\Debug\InverterNome.exe
+C:\curso\InverterNome\InverterNome\bin\Debug\InverterNome.pdb
+C:\curso\InverterNome\InverterNome\obj\Debug\InverterNome.exe
+C:\curso\InverterNome\InverterNome\obj\Debug\InverterNome.pdb
