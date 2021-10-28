@@ -40,6 +40,30 @@ namespace conversao
             //Console.ReadKey();
             #endregion
 
+            #region Conversão Metodo Parse
+
+            string txtNumero = "1988";
+
+            int numero = int.Parse(txtNumero);
+
+            byte numero = byte.Parse("128")
+
+            double num2 = double.Parse("123456,45");
+
+            float nume3 = float.Parse("457");
+
+            Console.WriteLine(num2);
+            Console.ReadKey();
+            #endregion
+
+            #region Conversão Metodo Convert
+            string texto = Convert.ToString(2500);
+
+            double num1 = Convert.ToDouble(0);
+
+            Console.WriteLine(num1);
+            Console.ReadKey();
+            #endregion
 
         }
     }

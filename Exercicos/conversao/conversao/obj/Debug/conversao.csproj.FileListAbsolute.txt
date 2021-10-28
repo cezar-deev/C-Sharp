@@ -5,3 +5,7 @@ C:\curso\conversao\conversao\obj\Debug\conversao.csproj.AssemblyReference.cache
 C:\curso\conversao\conversao\obj\Debug\conversao.csproj.CoreCompileInputs.cache
 C:\curso\conversao\conversao\obj\Debug\conversao.exe
 C:\curso\conversao\conversao\obj\Debug\conversao.pdb
+C:\Cezar\Cursos de Tecnologia\C-Sharp\Exercicos\conversao\conversao\obj\Debug\conversao.csproj.AssemblyReference.cache
+C:\Cezar\Cursos de Tecnologia\C-Sharp\Exercicos\conversao\conversao\obj\Debug\conversao.csproj.CoreCompileInputs.cache
+C:\Cezar\Cursos de Tecnologia\C-Sharp\Exercicos\conversao\conversao\obj\Debug\conversao.exe
+C:\Cezar\Cursos de Tecnologia\C-Sharp\Exercicos\conversao\conversao\obj\Debug\conversao.pdb
