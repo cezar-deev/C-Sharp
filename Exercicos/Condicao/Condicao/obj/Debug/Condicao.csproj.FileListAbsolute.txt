@@ -1,0 +1,7 @@
+C:\Cezar\Cursos de Tecnologia\C-Sharp\Exercicos\Condicao\Condicao\bin\Debug\Condicao.exe.config
+C:\Cezar\Cursos de Tecnologia\C-Sharp\Exercicos\Condicao\Condicao\bin\Debug\Condicao.exe
+C:\Cezar\Cursos de Tecnologia\C-Sharp\Exercicos\Condicao\Condicao\bin\Debug\Condicao.pdb
+C:\Cezar\Cursos de Tecnologia\C-Sharp\Exercicos\Condicao\Condicao\obj\Debug\Condicao.csproj.AssemblyReference.cache
+C:\Cezar\Cursos de Tecnologia\C-Sharp\Exercicos\Condicao\Condicao\obj\Debug\Condicao.csproj.CoreCompileInputs.cache
+C:\Cezar\Cursos de Tecnologia\C-Sharp\Exercicos\Condicao\Condicao\obj\Debug\Condicao.exe
+C:\Cezar\Cursos de Tecnologia\C-Sharp\Exercicos\Condicao\Condicao\obj\Debug\Condicao.pdb
