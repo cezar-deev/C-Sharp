@@ -4,5 +4,5 @@
  Conteúdo :
  
  - Texto teóricos da liguagem de programação C# ;
- - Exercios feitos;
+ - Exercícios feitos;
  - Não contém projetos;
