@@ -51,6 +51,27 @@ namespace Condicao
 
             #endregion
 
+            #region Operador Ternário
+
+            //int numero = 10;
+            //string mensagem = "";
+            // variavel = condição ? true : false;
+            //mensagem = numero > 5 ? "Maior que 5" : "MENOR QUE 5";
+
+
+            // pode ser feito dessa forma tambem, sem fazer declaração da variavel msg
+            //string mensagem = ""; - não precisa
+            //string mensagem = numero > 5 ? "Maior que 5" : "MENOR QUE 5";
+
+
+            //pode ser feito dessa forma tambem:
+            //int numero = 10;
+            //Console.WriteLine(numero > 5 ? "Maior que 5" : "MENOR QUE 5");
+            //Console.ReadKey();
+
+            #endregion
+
+
         }
     }
 }
