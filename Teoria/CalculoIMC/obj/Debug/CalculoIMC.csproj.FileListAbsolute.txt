@@ -1,2 +1,3 @@
 C:\Cezar\Cursos de Tecnologia\C-Sharp\Teoria\CalculoIMC\obj\Debug\CalculoIMC.csproj.AssemblyReference.cache
 C:\Cezar\Cursos de Tecnologia\C-Sharp\Teoria\CalculoIMC\obj\Debug\CalculoIMC.csproj.CoreCompileInputs.cache
+C:\Cezar\Cursos de Tecnologia\C-Sharp\Teoria\CalculoIMC\obj\Debug\CalculoIMC.csproj.SuggestedBindingRedirects.cache
