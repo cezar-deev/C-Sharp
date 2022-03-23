@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\calculator\\Calculator.csproj": {}
+    "C:\\dev\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\dev\\calculator\\Calculator.csproj": {
+    "C:\\dev\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\dev\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\dev\\calculator\\Calculator.csproj",
+        "projectPath": "C:\\dev\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\insue\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\calculator\\obj\\",
+        "outputPath": "C:\\dev\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\insue\\AppData\\Roaming\\NuGet\\NuGet.Config",
