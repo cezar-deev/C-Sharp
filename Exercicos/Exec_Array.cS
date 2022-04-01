@@ -1,6 +1,7 @@
 
 //--------------------------------ARRAY-------------------------
 
+using System;	
 public class Program
 {
 	public static void Main()
@@ -27,13 +28,12 @@ public class Program
 - Imprimir no console os valores do array
 */
 
-using System;
-					
+using System;				
 public class Program
 {
 	public static void Main()
 	{		
-		string [] estados = {"Correto", "Incorreto"};
+		string [] estados = new string [2] {"Correto", "Incorreto"};
         for(int i = 0; i < estados.Length ; i++)
          {
             Console.WriteLine(estados[i]);
@@ -41,12 +41,12 @@ public class Program
 	}
 }
 
+
 //----------------------------USANDO FOR-------------------------
 
 /* Utilizando o array de nome 'tecnologia', escreva um código capaz de imprimir o valor "Oracle" no Console: */
 
-using System;
-					
+using System;					
 public class Program
 {
 	public static void Main()
@@ -67,8 +67,7 @@ public class Program
 
 //----------------------------OU DE FORMA MAIS SIMPLES-------------------------
 
-using System;
-					
+using System;					
 public class Program
 {
 	public static void Main()
@@ -88,8 +87,7 @@ public class Program
 - Verificar se o valor do produto é igual a 'tv', e caso seja, deixar o conteúdo com todas as letras maiúsculas; 
 */
 
-using System;
-					
+using System;					
 public class Program
 {
 	public static void Main()
@@ -111,10 +109,8 @@ public class Program
 
 /*
 -Nomes que começam com a letra A
-
 -Percorra o array abaixo e imprima todos os nomes no console, verificando para que nomes que comecem com a letra A tenham todas as letras maiúsculas:
 */
-
 
 using System;					
 public class Program
@@ -138,6 +134,7 @@ public class Program
 /*
                                   
 								  - Removendo a última vírgula
+								  
 Enquanto observava seu código, o desenvolvedor percebeu que o resultado da string 'pessoas' vinha com uma vírgula extra no final.
 Qual das alternativas abaixo remove essa vírgula e imprime o resultado correto?
 */
@@ -181,11 +178,13 @@ public class Program
 
 		for ( int i=0; i < votos.Length; i++)
 		{
-			if ( votos[i] == "X"){
-			votoX++;
+			if ( votos[i] == "X")
+			{
+			   votoX++;
 			}
-			else{       
-			votoY++;
+			else
+			{       
+			   votoY++;
 			}	
 		}
 		Console.WriteLine("Resultado:");		
@@ -193,3 +192,9 @@ public class Program
 		Console.WriteLine("Votos em Y: " + votoY);			
 	}
 }
+
+
+
+
+
+
