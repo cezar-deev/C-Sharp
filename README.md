@@ -6,4 +6,4 @@
  
  - Pasta - Teorias ;
  - Pasta - Exercícios feitos;
- - Pasta - Mini Projetos;
+ - Pasta - Mini Projetos em Console;
