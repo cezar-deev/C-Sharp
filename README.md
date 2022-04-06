@@ -1,8 +1,9 @@
 # C-Sharp
- Repositório para conteúdos de estudos da Linguagem C#
+
+ Repositório para conteúdos de estudos de estudo da Linguagem C#
  
  Conteúdo :
  
- - Texto teóricos da liguagem de programação C# ;
- - Exercícios feitos;
- - Não contém projetos;
+ - Pasta - Teorias ;
+ - Pasta - Exercícios feitos;
+ - Pasta - Mini Projetos em Console;
