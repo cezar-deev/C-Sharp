@@ -1,0 +1,15 @@
+C:\dev\Balta\bin\Debug\net6.0\POOpratica.exe
+C:\dev\Balta\bin\Debug\net6.0\POOpratica.deps.json
+C:\dev\Balta\bin\Debug\net6.0\POOpratica.runtimeconfig.json
+C:\dev\Balta\bin\Debug\net6.0\POOpratica.dll
+C:\dev\Balta\bin\Debug\net6.0\ref\POOpratica.dll
+C:\dev\Balta\bin\Debug\net6.0\POOpratica.pdb
+C:\dev\Balta\obj\Debug\net6.0\POOpratica.csproj.AssemblyReference.cache
+C:\dev\Balta\obj\Debug\net6.0\POOpratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Balta\obj\Debug\net6.0\POOpratica.AssemblyInfoInputs.cache
+C:\dev\Balta\obj\Debug\net6.0\POOpratica.AssemblyInfo.cs
+C:\dev\Balta\obj\Debug\net6.0\POOpratica.csproj.CoreCompileInputs.cache
+C:\dev\Balta\obj\Debug\net6.0\POOpratica.dll
+C:\dev\Balta\obj\Debug\net6.0\ref\POOpratica.dll
+C:\dev\Balta\obj\Debug\net6.0\POOpratica.pdb
+C:\dev\Balta\obj\Debug\net6.0\POOpratica.genruntimeconfig.cache

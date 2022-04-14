@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\POOpratica\\POOpratica.csproj",
-      "projectName": "POOpratica",
-      "projectPath": "C:\\dev\\POOpratica\\POOpratica.csproj",
+      "projectUniqueName": "C:\\dev\\Balta\\Balta.csproj",
+      "projectName": "Balta",
+      "projectPath": "C:\\dev\\Balta\\Balta.csproj",
       "packagesPath": "C:\\Users\\insue\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\POOpratica\\obj\\",
+      "outputPath": "C:\\dev\\Balta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\insue\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Balta\\POOpratica.csproj": {}
+    "C:\\dev\\Balta\\Balta.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Balta\\POOpratica.csproj": {
+    "C:\\dev\\Balta\\Balta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Balta\\POOpratica.csproj",
-        "projectName": "POOpratica",
-        "projectPath": "C:\\dev\\Balta\\POOpratica.csproj",
+        "projectUniqueName": "C:\\dev\\Balta\\Balta.csproj",
+        "projectName": "Balta",
+        "projectPath": "C:\\dev\\Balta\\Balta.csproj",
         "packagesPath": "C:\\Users\\insue\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\Balta\\obj\\",
         "projectStyle": "PackageReference",
