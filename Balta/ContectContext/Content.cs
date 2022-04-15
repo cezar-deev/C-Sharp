@@ -1,13 +1,20 @@
+// Classe Conteudo
+
 namespace Balta.ContentContext
 {
-    public abstract class Content // Class pai abstarad, pois nao deixa instanciar
-    { 
-        public Content() // Construtor
+    // Class pai é abstrata, pois nao deixa instanciar
+    public abstract class Content 
+    {   
+        public Content(string title, string url) 
         {
-            id = Guid.NewGuid(); // Guid já constroe o id para todas sa classes
+            Id = Guid.NewGuid(); // Guid já constroe o id para todas sa classes
+            Title = title ;  
+            Url = url ;
+
+
         }
-        public Guid id { get ; set;}
-        public int Title { get ; set;}
-        public int url { get ; set;}
+        public Guid Id { get ; set;}
+        public string Title { get ; set;}
+        public string Url { get ; set;}
     }
 }

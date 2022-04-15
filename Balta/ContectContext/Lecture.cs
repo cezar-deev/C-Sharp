@@ -1,3 +1,5 @@
+//Classe palestra
+
 namespace Balta.ContentContext
 {
     public class Lecture
